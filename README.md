@@ -19,7 +19,7 @@ This repository contains my first machine learning projects, showcasing my journ
 - **Results**:  
   - Training Accuracy: ~83%  
   - Testing Accuracy: ~76%  
-- **Learn More**: [Rock Vs Mine README](#)
+
 
 ---
 
@@ -34,7 +34,7 @@ This repository contains my first machine learning projects, showcasing my journ
 - **Results**:  
   - Training Accuracy: ~78%  
   - Testing Accuracy: ~77%  
-- **Learn More**: [Diabetes README](#)
+
 
 ---
 
