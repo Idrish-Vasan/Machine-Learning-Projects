@@ -54,7 +54,7 @@ The following libraries and tools were used for both projects:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/Idrish-Vasan/Machine-Learning-Projects.git
+   git clone https://github.com/your_name/Machine-Learning-Projects.git
  
 2. **Navigate to the Project Folder**
    ```bash
